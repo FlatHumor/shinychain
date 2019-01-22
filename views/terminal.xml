@@ -1,0 +1,6 @@
+<odoo>
+    <record model="ir.ui.view" id="terminal_transaction_form_view">
+        <field name="name">terminal.form.view</field>
+        <field name="model"></field>
+    </record>
+</odoo>
